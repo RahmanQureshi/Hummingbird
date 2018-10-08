@@ -13,3 +13,6 @@
 [submodule "BLHeli"]
 	path = BLHeli
 	url = git@github.com:yilun-wu/BLHeli.git
+[submodule "Hummingbird-Navigation"]
+	path = Hummingbird-Navigation
+	url = https://github.com/RahmanQureshi/Hummingbird-Navigation
