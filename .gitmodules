@@ -7,12 +7,12 @@
 [submodule "Hummingbird-MCAD"]
 	path = Hummingbird-MCAD
 	url = https://github.com/utiasSTARS/Hummingbird-MCAD.git
-[submodule "Hummingbird-Simulink"]
-	path = Hummingbird-Simulink
-	url = https://github.com/utiasSTARS/Hummingbird-Simulink.git
-[submodule "BLHeli"]
-	path = BLHeli
-	url = https://github.com/utiasSTARS/BLHeli.git
 [submodule "Hummingbird-Navigation"]
 	path = Hummingbird-Navigation
 	url = https://github.com/RahmanQureshi/Hummingbird-Navigation
+[submodule "BLHeli"]
+	path = BLHeli
+	url = https://github.com/utiasSTARS/BLHeli.git
+[submodule "Hummingbird-Simulink"]
+	path = Hummingbird-Simulink
+	url = https://github.com/utiasSTARS/Hummingbird-Simulink.git
